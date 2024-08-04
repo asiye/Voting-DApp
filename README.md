@@ -1,2 +1,2 @@
 # Voting-DApp
-decentralized application (DApp) using Solidity, Node.js, and simple frontend using Vue.js
+decentralized application (DApp) using Solidity and Node.js
